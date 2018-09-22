@@ -7,6 +7,7 @@
 //
 
 import UIKit
+var str="hello word"
 
 class ViewController: UIViewController {
 
